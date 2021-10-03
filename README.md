@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purplecompute (Mayur Satav)
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Web & Android development
 - 🌱 I’m currently learning ... Web Development, Android devt, java, Python
 - 💞️ I’m looking to collaborate on ... Hackathoon problems
 - 📫 How to reach me ... sataomayur@gmail.com. Whatsapp: +919767617285
