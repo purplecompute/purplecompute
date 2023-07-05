@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @purplecompute (Mayur Satav)
-- 👀 I’m interested in ... Data Science, Machine Learning, and data analytics.
-- 🎖️ I am skilled at... Python, Machine Learning, Data Analytics, Data Visualization, SQL, Power BI, Excel, Frontend Development.
-- 🌱 I’m currently learning ... Tableau, Dashboard building.
-- 💞️ I’m looking to collaborate on ... Hackathon problems/ Team projects.
-- 📫 How to reach me ... Email: sataomayur@gmail.com
-                          Whatsapp: +919767617285
-                          LinkedIn: https://www.linkedin.com/in/mayur-satav
+ ## Hi I'm Mayur, Good to have you here! 👋
 
- # Hi I'm Mayur, Good to have you here! 👋
+I am a Data Scientist who harnesses the power of data to drive insights, innovation, and informed decision-making. With a passion for data science, machine learning, data analytics, and data visualization, I create impactful solutions that transform complex datasets into valuable knowledge. Let's unlock the full potential of data together for meaningful analytics, problem-solving, and empowering data-driven decisions.
 
 👀 I'm interested in... Data Science, Machine Learning, and Data Analytics.
 
