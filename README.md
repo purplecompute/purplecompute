@@ -15,7 +15,7 @@ Email: sataomayur@gmail.com
 WhatsApp: +919767617285
 LinkedIn: https://www.linkedin.com/in/mayur-satav
 
-⚡ Fun fact: I love participating in Hackathons and solving real-world data problems.
+⚡ About me: I love participating in Hackathons and solving real-world data problems.
 
 Let's connect and work on exciting data projects together!
 
