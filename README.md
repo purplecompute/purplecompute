@@ -10,10 +10,10 @@ I am a Data Scientist who harnesses the power of data to drive insights, innovat
 
 - 💞️ I'm open to collaborating on... Hackathon problems and team projects.
 
-- 📫 You can reach me via...
-Email: sataomayur@gmail.com
-WhatsApp: +919767617285
-LinkedIn: https://www.linkedin.com/in/mayur-satav
+- 📫 You can reach me via...<br>
+          <pre>Email: sataomayur@gmail.com<br>
+          WhatsApp: +919767617285<br>
+          LinkedIn: https://www.linkedin.com/in/mayur-satav</pre>
 
 ⚡ About me: I love participating in Hackathons and solving real-world data problems.
 
