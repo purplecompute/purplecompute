@@ -2,6 +2,8 @@
 
 I am a Data Scientist who harnesses the power of data to drive insights, innovation, and informed decision-making. With a passion for data science, machine learning, data analytics, and data visualization, I create impactful solutions that transform complex datasets into valuable knowledge. Let's unlock the full potential of data together for meaningful analytics, problem-solving, and empowering data-driven decisions.
 
+- 🧑‍💻 Experience: Project Analyst (01 Year)
+  
 - 👀 I'm interested in... Data Science, Machine Learning, and Data Analytics.
 
 - 🎖️ I have skills in... Python, Machine Learning, Data Analytics, Data Visualization, SQL, Power BI, Excel, and Frontend Development.
