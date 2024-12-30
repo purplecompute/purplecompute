@@ -1,6 +1,7 @@
 # Hi I'm Mayur Satao. 👋
 
-🔮 Data Scientist | 🛠️ Python Developer AI/ ML
+🔮 Data Scientist | 🛠️ Python Developer AI/ ML<p align="right"> <img src="https://komarev.com/ghpvc/?username=purplecompute" alt="arnabadeypolimi" /> </p>
+
 
 I'm passionate about solving real-world problems using data and ML. Currently exploring exciting projects and roles in the data science ecosystem.
 
