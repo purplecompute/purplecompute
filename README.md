@@ -1,10 +1,10 @@
 # Hi I'm Mayur Satao. 👋
 
-🔮 Aspiring Data Scientist | 🛠️ Python Developer Trainee
+🔮 Data Scientist | 🛠️ Python Developer AI/ ML
 
 I'm passionate about solving real-world problems using data and ML. Currently exploring exciting projects and roles in the data science ecosystem.
 
-- 🌟 Interests: Machine Learning, NLP, Ensembling, and Statistical Analysis.
+- 🌟 Interests: Machine Learning, NLP, Ensembling, and Statistical Analysis, LLM.
 - 💻 Projects: Personal Finance ML, Fault Detection, and Fraud Detection Systems.
 - 🎓 Learning: Python, SQL, Statistics, Power BI, and Deep Learning.
 
@@ -54,7 +54,7 @@ Let's connect and innovate! 🚀
 
 <p align="center">👇🏼 Some of the tools and technologies I use.</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,tensorflow,keras,sql,mysql,powerbi,git,github&perline=4&theme=dark" alt="tech-stack" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,vscode,pycharm,tensorflow,mysql,docker,git,github,&perline=3&theme=dark" alt="tech-stack" />
 </p>
 
 ---
