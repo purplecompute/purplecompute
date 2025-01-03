@@ -64,6 +64,6 @@ Let's connect and innovate! 🚀
 
 - 📧 Email: sataomayur@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayur-satav/)
-- 🌟 [GitHub](https://github.com/purplecompute)
+- 🌟 [X/ Twitter](https://x.com/MayurSatao__)
 
 Feel free to reach out for collaboration or just to say hi!
