@@ -63,7 +63,7 @@ Let's connect and innovate! 🚀
 ## Contact Me 📬
 
 - 📧 Email: sataomayur@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayur-satav/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayur-satao/)
 - 🌟 [X/ Twitter](https://x.com/MayurSatao__)
 <!--- 📄 [Medium Articles](https://medium.com/@sataomayur)-->
 
