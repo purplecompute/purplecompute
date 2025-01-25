@@ -1,4 +1,4 @@
-# Hi I'm Mayur Satao. 👋
+# Hi I'm Mayur Satao. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"><p align="center">
 
 🔮 Data Scientist | 🛠️ Python Developer AI/ ML<p align="right"> <img src="https://komarev.com/ghpvc/?username=purplecompute" alt="arnabadeypolimi" /> </p>
 
@@ -28,8 +28,8 @@ Let's connect and innovate! 🚀
 
 | Title | Link |
 |---------------|------|
-| Fault Detection of Electric Motor Using Machine Learning | [🔗](https://github.com/purplecompute/Fault-Detection-of-Electric-Motor-Using-ML) |
-| Credit Card Fraud Detection Using Machine Learning | [🔗](https://github.com/purplecompute/Credit-Card-Fraud-Detection) |
+| Multi Language Invoice Data Extractor Using LLM | [🔗](https://github.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM) |
+| Text To SQL LLM Application | [🔗](https://github.com/purplecompute/Text-To-SQL-LLM-Application) |
 
 ---
 
