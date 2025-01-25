@@ -21,8 +21,9 @@ Let's connect and innovate! 🚀
 |---------------|------|------|
 | Fault Detection of Electric Motor Using Machine Learning | April-2024 | [🔗](https://github.com/purplecompute/Fault-Detection-of-Electric-Motor-Using-ML) |
 | Credit Card Fraud Detection Using Machine Learning | Oct-2024 | [🔗](https://github.com/purplecompute/Credit-Card-Fraud-Detection) |
--->
+
 ---
+-->
 
 ## Projects 💻
 
