@@ -30,7 +30,7 @@ Let's connect and innovate! 🚀
 | Title | Link |
 |---------------|------|
 | Multi Language Invoice Data Extractor Using LLM | [🔗](https://github.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM) |
-| Text To SQL Query LLM Application | [🔗](https://github.com/purplecompute/Text-To-SQL-LLM-Application) |
+| Text To SQL LLM Application | [🔗](https://github.com/purplecompute/Text-To-SQL-LLM-Application) |
 | Credit Card Fraud Detection (ML) | [🔗](https://github.com/purplecompute/Credit-Card-Fraud-Detection) |
 
 ---
