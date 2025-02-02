@@ -5,8 +5,8 @@
 
 I'm passionate about solving real-world problems using data and ML. Currently exploring exciting projects and roles in the data science ecosystem.
 
-- 🌟 Interests: Machine Learning, NLP, Ensembling, and Statistical Analysis, LLM.
-- 💻 Projects: Personal Finance ML, Fault Detection, and Fraud Detection Systems.
+- 🌟 Interests: Machine Learning, NLP, LLMs, Generative AI.
+- 💻 Projects: Generative AI projects, Fault Detection Model, and Fraud Detection Systems.
 - 🎓 Learning: Python, SQL, Statistics, Power BI, and Deep Learning.
 
 Let's connect and innovate! 🚀
